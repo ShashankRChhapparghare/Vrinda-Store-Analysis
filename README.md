@@ -1,6 +1,6 @@
 # Vrinda-Store-Analysis
 
-Store wants to create an Annual sales Report so taht they can understand their customers and grow more sales.
+Store wants to create an Annual sales Report so that they can understand their customers and grow more sales.
 Sample Questions.
 1 Compare sales and orders using single chart.
 2 Which month got the highest sales and orders.
